@@ -13,9 +13,9 @@
 
 ## Articles
 
-* Basol, M., Roozenbeeck, J., **Berriche**, M., Uenal, F., McClanahan, W., & Van der Linden, S.(In Principle Acceptance). Towards psychological herd immunity: Cross-cultural evidence for two prebunking interventions against COVID-19 misinformation. *Big Data & Society*
+* Basol, M., Roozenbeeck, J., **Berriche**, M., Uenal, F., McClanahan, W., & Van der Linden, S.(Forthcoming). Towards psychological herd immunity: Cross-cultural evidence for two prebunking interventions against COVID-19 misinformation. *Big Data & Society*
 
-* **Berriche**, M. (In Principle Acceptance). "Ça coule de source !" : preuves et mises à l'épreuve des internautes dans la controverse vaccinale sur Facebook. *Politiques de Communication*
+* **Berriche**, M. (Forthcoming). En quête de sources. Preuves et mises à l'épreuve des internautes dans la controverse vaccinale sur Facebook. *Politiques de Communication*
 
 * **Berriche**, M., & Altay, S. (2020). [Internet Users Engage More With Phatic Posts Than With Health Misinformation On Facebook](https://doi.org/10.1057/s41599-020-0452-1). *Palgrave Communications*, 6(1), 1-9.
 
@@ -67,9 +67,9 @@ Normale, Supérieure, Paris, France. **Presentation & Poster**.
 
 ## Book Reviews
 
-* **Berriche**, M. (Forthcoming). Culture numérique. (Dominique Cardon). *Hermès, La Revue*.
+* **Berriche**, M. (2021). [Culture numérique.] (https://www.cairn.info/revue-hermes-la-revue-2020-2-page-301.htm) (Dominique Cardon). *Hermès, La Revue*.
 
-* **Berriche**, M. (Forthcoming). Fact-checking vs fake news. Vérifier pour mieux informer. (Laurent Bigot). *Hermès, La Revue*.
+* **Berriche**, M. (2021). [Fact-checking vs fake news. Vérifier pour mieux informer.] (https://www.cairn.info/revue-hermes-la-revue-2020-2-page-301.htm) (Laurent Bigot). *Hermès, La Revue*.
 
 * **Berriche**, M. (In Revision). Not born yesterday. The science of who we trust and what we believe. (Hugo Mercier). *Réseaux*.
 
